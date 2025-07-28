@@ -52,10 +52,10 @@
 - **Languages:** TypeScript, Java, Python, HTML, CSS, Rust
 - **Frameworks:** React Native, React, Node.js, Tauri
 - **Tools:** Git, Docker, VS Code, Obsidian, Jira
-- **Cloud:** AWS, GCP
+- **Cloud:** AWS, Firebase, GCP
 
 ## Recent Projects
 
-- [Video Clipper](https://github.com/GitGeddes/project1): A desktop app built with React and Tauri to trim video clips.
+- [Video Clipper](https://github.com/GitGeddes/VideoClipper): A desktop app built with React and Tauri to trim video clips.
 - A self-hosted server with Docker containers for [Immich](https://immich.app/), [Obsidian-LiveSync](https://github.com/vrtmrz/obsidian-livesync) and [Crafty Controller](https://craftycontrol.com/), with plans to add more.
 - [Groupie](https://www.thegroupie.app/): Solo-developed mobile social media app built with React Native, Firebase, Redux, and Jest for automated testing. Used Jira for project management.
