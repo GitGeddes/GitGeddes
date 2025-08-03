@@ -56,6 +56,7 @@
 
 ## Recent Projects
 
+- [Obsidian Portfolio](https://github.com/GitGeddes/obsidian-portfolio): A GitHub portfolio styled after the Obsidian note-taking app built with React and Next.js.
 - [Video Clipper](https://github.com/GitGeddes/VideoClipper): A desktop app built with React and Tauri to trim video clips.
 - A self-hosted server with Docker containers for [Immich](https://immich.app/), [Obsidian-LiveSync](https://github.com/vrtmrz/obsidian-livesync) and [Crafty Controller](https://craftycontrol.com/), with plans to add more.
 - [Groupie](https://www.thegroupie.app/): Solo-developed mobile social media app built with React Native, Firebase, Redux, and Jest for automated testing. Used Jira for project management.
